@@ -1,2 +1,2 @@
-# Sample-Project-testing
-Java Full Stack Program
+# Media Mind Project
+BITS Pilani WILP Project
